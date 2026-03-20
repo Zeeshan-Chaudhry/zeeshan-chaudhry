@@ -1,4 +1,4 @@
-# Hello, I'm Zeeshan
+# 
 
 CS student at Western University, minoring in Software Engineering. I like building full-stack products and working with AI.
 
