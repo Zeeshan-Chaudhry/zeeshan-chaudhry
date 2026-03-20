@@ -1,10 +1,6 @@
 # Hey, I'm Zeeshan
 
-CS student at Western University, minoring in Software Engineering. I build full-stack products and AI-powered systems.
-
-Right now I'm a Software Engineer Intern at [Motive](https://motiverewards.com), where I'm building AI infrastructure -- LLM pipelines, automated applicant curation, and integrations across our NestJS + React Native + Next.js stack.
-
-Before that, I spent a year at the [Osinski Planetary Research Lab](https://www.uwo.ca/earth/people/faculty/osinski.html) at Western, where I built and shipped an iOS field data collection app used by 120+ researchers across remote geological sites.
+CS student at Western University, minoring in Software Engineering. I like building full-stack products and working with AI.
 
 ### I primarily code in:
 <p>
