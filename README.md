@@ -6,7 +6,7 @@ CS student at Western University, minoring in Software Engineering. I like build
 <p>
   <a href="mailto:ZeeshanNawazChaudhry@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/zeeshannchaudhry"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://motiverewards.com"><img alt="Website" src="https://img.shields.io/badge/website-008000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://zeeshanc.com"><img alt="Website" src="https://img.shields.io/badge/website-008000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 <picture>
